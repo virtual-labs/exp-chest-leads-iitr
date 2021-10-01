@@ -1,1 +1,1 @@
-## Experiment name
+## Monitoring of electrocardiogram (ECG) for chest leads V1,V2,V3,V4,V5 and V6.
