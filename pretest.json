@@ -1,0 +1,60 @@
+{
+  "version": 2.0,
+  "questions":[
+		{
+		"question":"Lateral Leads in the Clinical Lead Groups are:",
+		"answers":{
+		"a":" V1 and V2",
+		"b":"I, aVL, V5 and V6",
+		"c":"II, III and aVF",
+		"d":"V3 and V4"
+		},
+		"correctAnswer":"b",
+		"difficulty": "beginner"
+		},
+		{
+		"question":"Septal Leads in the Clinical Lead Groups are:",
+		"answers":{
+		"a":" V1 and V2",
+		"b":"I, aVL, V5 and V6",
+		"c":"II, III and aVF",
+		"d":"V3 and V4"
+		},
+		"correctAnswer":"a",
+		"difficulty": "beginner"
+		},
+		{
+		"question":"Anterior Leads in the Clinical Lead Groups are:",
+		"answers":{
+		"a":" V1 and V2",
+		"b":"I, aVL, V5 and V6",
+		"c":"II, III and aVF",
+		"d":"V3 and V4"
+		},
+		"correctAnswer":"d",
+		"difficulty": "beginner"
+		},
+		{
+		"question":"A First Degree AV Block is seen in an ECG as:",
+		"answers":{
+		"a":"Wide QRS Complex",
+		"b":"Elongated PR Interval",
+		"c":"Depressed ST Segment",
+		"d":"Absence of QRS Complex"
+		},
+		"correctAnswer":"a",
+		"difficulty": "beginner"
+		},
+		{
+		"question":"A Second Degree AV Block is seen in an ECG as:",
+		"answers":{
+		"a":"Wide QRS Complex",
+		"b":"Elongated PR Interval",
+		"c":"Depressed ST Segment",
+		"d":"Missed QRS Complex"
+		},
+		"correctAnswer":"b",
+		"difficulty": "beginner"
+		}
+  ]
+}
