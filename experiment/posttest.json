@@ -1,39 +1,60 @@
 {
   "version": 2.0,
   "questions": [
-    {
-      "question": "This is a Sample Question 1?",
-      "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
-      },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "a",
-      "difficulty": "beginner"
-    },
-    {
-      "question": "This is a Sample Question 2?",
-      "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
-      },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "c",
-      "difficulty": "beginner"
-    }
+	{
+	"question":"A prolonged P wave is an indication of:",
+	"answers":{
+	"a":"Atrial Fibrillation",
+	"b":"L Atrial Enlargement",
+	"c":"R Atrial Enlargement",
+	"d":"None of these"
+	},
+	"correctAnswer":"b",
+	"difficulty": "advanced"
+	},
+	{
+	"question":"A P wave with increased amplitude indicates:",
+	"answers":{
+	"a":"Atrial Fibrillation",
+	"b":"L Atrial Enlargement",
+	"c":"R Atrial Enlargement",
+	"d":"None of these"
+	},
+	"correctAnswer":"c",
+	"difficulty": "advanced"
+	},
+	{
+	"question":"Bundle Branch Blocks are seen on the ECG as:",
+	"answers":{
+	"a":"Absent P wave",
+	"b":"Prolonged P wave duration",
+	"c":"Prolonged QRS Duration",
+	"d":"None of these"
+	},
+	"correctAnswer":"c",
+	"difficulty": "advanced"
+	},
+	{
+	"question":"Pacemaker stimulus appears on the ECG as:",
+	"answers":{
+	"a":"An Exta Wave",
+	"b":"A Spike or Straight Line",
+	"c":"Baseline Wander",
+	"d":"Does not appear on the ECG"
+	},
+	"correctAnswer":"b",
+	"difficulty": "advanced"
+	},
+	{
+	"question":"The J-Point on ECG is:",
+	"answers":{
+	"a":"End of Q & start of R",
+	"b":"End of P & Start of PR Interval",
+	"c":"End of S & Beginning of ST Segment",
+	"d":"End of PR Interval & start of R Wave"
+	},
+	"correctAnswer":"c",
+	"difficulty": "advanced"
+	}
   ]
 }
